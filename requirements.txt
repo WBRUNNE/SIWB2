@@ -1,6 +1,4 @@
 numpy==1.19.3
 pandas
-time
-datatime
 scipy
 plotly
